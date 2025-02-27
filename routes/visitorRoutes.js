@@ -7,3 +7,5 @@ router.post("/add", addVisitor);
 router.get("/", getVisitors);
 
 module.exports = router;
+
+// Todo -- > Validation
