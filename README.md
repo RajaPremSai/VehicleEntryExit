@@ -1,3 +1,7 @@
+<h1>Project Overview</h1>
+The Barcode-Based Vehicle Entry/Exit System is an automated solution designed to manage and monitor vehicle access to a gated facility. The system uses barcode scanning technology for identifying vehicles, logging their entry and exit times, and maintaining detailed records of vehicle movement within the premises. This project provides a seamless user experience for security guards, admins, and vehicle owners, while ensuring high-level security and data integrity.
+<br>
+<br>
 <h1>To Do List</h1>
 <ul>
     <li>To complete all the updated routes 
@@ -52,3 +56,4 @@
 <li>Frontend for website - React
 <li>Frontend for app - Kotlin
 <li>Database - MongoDB
+<li>Authentication: JWT-based authentication
