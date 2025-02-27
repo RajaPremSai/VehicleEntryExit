@@ -14,4 +14,4 @@ router.get("/users", authenticate, authorizeAdmin, getAllUsers);
 module.exports = router;
 
 //Todo -- > Validation
-//Todo -- Admin can add university vehicles (router.post("/add-university-vehicle"))
+//Todo -- Admin can add university vehicles (router.post("/add-university-vehicle")).
