@@ -45,3 +45,10 @@
         </ul>
     </li>
 </ol>
+
+<br>
+<h1>Project TechStack</h1>
+<li>Backend - Express.js / JAVA SpringBoot
+<li>Frontend for website - React
+<li>Frontend for app - Kotlin
+<li>Database - MongoDB
